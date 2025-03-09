@@ -37,7 +37,7 @@ Welcome to my **developer portfolio**! Here, you'll find my **projects, skills, 
 ---
 
 ## 📬 Contact Me  
-📩 Email: **your.email@example.com**  
+📩 Email: **ashvinz.dev@gmail.com**  
 💼 LinkedIn: [Your Profile](https://linkedin.com/in/ashvinz)  
 📂 GitHub: [Your GitHub](https://github.com/Ashvinz)  
 
